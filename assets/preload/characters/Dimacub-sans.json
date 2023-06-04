@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
+				20,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "idle0000",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				1
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				1
+				-17,
+				-17
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"name": "down0000",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				7
+				45,
+				0
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP0",
+			"name": "up0000",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-3
+				-39,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-6
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"image": "characters/Dimacub_sans",
 	"position": [
-		-190,
+		0,
 		0
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "dimacub",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		-320,
-		280
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 0.5
+	"scale": 0.7
 }

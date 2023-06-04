@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
+				-26,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "Nikitos Idle Dance",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				1
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				1
+				-24,
+				-5
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"name": "Nikitos Down Note0",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				7
+				-23,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Nikitos Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-2
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP0",
+			"name": "Nikitos Up Note",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-3
+				-10,
+				-6
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "Nikitos Left Note",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"image": "characters/Nikitos_animated",
 	"position": [
-		-190,
-		0
+		-40,
+		-120
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "nikitos-new",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		0,
+		102,
+		204
 	],
 	"camera_position": [
-		-320,
-		280
+		-110,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 0.5
+	"scale": 0.8
 }

@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
-				0
+				13,
+				-1
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				1
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				1
+				17,
+				-55
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				7
+				21,
+				13
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP0",
+			"name": "Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-3
+				19,
+				1
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"image": "characters/Danil_assets",
 	"position": [
-		-190,
-		0
+		-50,
+		50
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "danil",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		204,
+		0,
+		255
 	],
 	"camera_position": [
-		-320,
-		280
+		-90,
+		40
 	],
 	"sing_duration": 4,
-	"scale": 0.5
+	"scale": 0.9
 }

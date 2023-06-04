@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
+				0,
 				0
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BF idle dance",
+			"name": "frame_",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				1
+				-9,
+				10
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF NOTE LEFT0",
+			"name": "f left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				1
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				7
+				-6,
+				50
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF NOTE UP0",
+			"name": "f up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-3
+				0,
+				27
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "f right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "f down",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"image": "characters/fedya_crish",
 	"position": [
-		-190,
-		0
+		50,
+		-60
 	],
-	"healthicon": "bf",
+	"healthicon": "fedya-crish",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		106,
+		0
 	],
 	"camera_position": [
-		-320,
-		280
+		-170,
+		20
 	],
-	"sing_duration": 4,
-	"scale": 0.5
+	"sing_duration": 6.1,
+	"scale": 1.1
 }

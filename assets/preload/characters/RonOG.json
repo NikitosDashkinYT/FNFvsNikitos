@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				-5,
-				0
+				-20,
+				-90
 			],
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
+			"fps": 30,
+			"name": "Ron Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-4,
-				1
+				59,
+				-111
 			],
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
+			"fps": 30,
+			"name": "Ron Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				1
+				230,
+				-177
 			],
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"fps": 30,
+			"name": "Ron Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				7
+				120,
+				-110
 			],
 			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
+			"fps": 30,
+			"name": "Ron Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				-3
+				20,
+				-200
 			],
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"fps": 30,
+			"name": "Ron Right",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"no_antialiasing": true,
+	"image": "characters/RonOG",
 	"position": [
-		-190,
-		0
+		190,
+		130
 	],
-	"healthicon": "bf",
+	"healthicon": "ronshit",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		216,
+		0
 	],
 	"camera_position": [
-		-320,
-		280
+		-260,
+		40
 	],
-	"sing_duration": 4,
-	"scale": 0.5
+	"sing_duration": 6.1,
+	"scale": 2
 }

@@ -3,76 +3,76 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-4,
-				1
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				1
+				100,
+				-129
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF NOTE DOWN0",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				7
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-3,
-				-3
+				1,
+				-93
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF NOTE RIGHT0",
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-54
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-86
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-12
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "frame_",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfChristmas",
+	"image": "characters/GF_Crish",
 	"position": [
-		-190,
-		0
+		600,
+		-220
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "gf",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		165,
+		0,
+		77
 	],
 	"camera_position": [
-		-320,
-		280
+		-250,
+		200
 	],
-	"sing_duration": 4,
-	"scale": 0.5
+	"sing_duration": 6,
+	"scale": 1
 }
